@@ -1,16 +1,98 @@
-## Hi there 👋
+# Hi, I'm Yeasin Arfin 👋
 
-<!--
-**Arfiny007/Arfiny007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer and Software Engineering student at American International University-Bangladesh (AIUB).
 
-Here are some ideas to get you started:
+I enjoy building scalable backend systems, real-time applications, and business automation solutions using modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### Frontend
+- Next.js
+- React.js
+- Tailwind CSS
+- HTML5
+- CSS3
+
+### Backend
+- NestJS
+- Node.js
+- Django
+- REST APIs
+- JWT Authentication
+- Socket.IO
+
+### Database
+- PostgreSQL
+- Prisma ORM
+- TypeORM
+
+### DevOps
+- Docker
+- GitHub Actions
+- Vercel
+- Render
+
+### Machine Learning
+- Python
+- Pandas
+- NumPy
+- KNN
+
+---
+
+## 🌟 Featured Projects
+
+### 🎓 ClassCircle
+Production-grade educational collaboration SaaS platform.
+
+**Tech Stack:**
+Next.js • NestJS • PostgreSQL • Docker • Socket.IO
+
+**Features:**
+- 40+ REST APIs
+- Real-time Messaging
+- RBAC
+- Analytics Dashboard
+- Admin Panel
+- Notifications
+- File Uploads
+
+🔗 Live Demo:
+https://classcricle.vercel.app
+
+🔗 Repository:
+https://github.com/Arfiny007/student-collab-platform
+
+---
+
+### 🏭 Nazma ERP
+
+Commercial ERP platform for Nazma Metal Industries.
+
+Features:
+- Sales
+- Invoicing
+- Collections
+- Dealer Management
+- Ledger
+- RBAC
+- Reporting
+
+---
+
+### 📄 Research Publication
+
+An AI-Driven Framework for Real-Time Fake News Detection.
+
+DOI:
+10.54660/IJFEI.2025.2.4.158-169
+
+---
+
+## 📫 Contact
+
+Portfolio:
+https://arfiny-dev.vercel.app
+
+Email:
+Arfiny007@gmail.com
